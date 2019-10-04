@@ -1,0 +1,77 @@
+results_synthesized-1b.graph
+amount of partitions: 2
+vertex cut:
+partition: 0
+778229
+500109
+2390182
+partition: 1
+778499
+499891
+2390182
+amount of partitions: 3
+vertex cut:
+partition: 0
+633244
+333719
+1593455
+partition: 1
+633675
+333138
+1593455
+partition: 2
+633414
+333143
+1593454
+amount of partitions: 4
+vertex cut:
+partition: 0
+537628
+250225
+1195091
+partition: 1
+537696
+249943
+1195091
+partition: 2
+537427
+249884
+1195091
+partition: 3
+537372
+249948
+1195091
+amount of partitions: 8
+vertex cut:
+partition: 0
+346363
+125059
+597546
+partition: 1
+346235
+124793
+597546
+partition: 2
+346842
+125599
+597546
+partition: 3
+346423
+124711
+597546
+partition: 4
+346487
+125166
+597545
+partition: 5
+346333
+125150
+597545
+partition: 6
+345802
+124285
+597545
+partition: 7
+346350
+125237
+597545

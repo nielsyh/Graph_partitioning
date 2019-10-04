@@ -1,0 +1,77 @@
+results_roadNet-PA.graph
+amount of partitions: 2
+vertex cut:
+partition: 0
+946799
+544700
+770949
+partition: 1
+946997
+543392
+770949
+amount of partitions: 3
+vertex cut:
+partition: 0
+789466
+362839
+513966
+partition: 1
+789777
+362310
+513966
+partition: 2
+789630
+362943
+513966
+amount of partitions: 4
+vertex cut:
+partition: 0
+650202
+271950
+385475
+partition: 1
+650233
+271760
+385475
+partition: 2
+650390
+272750
+385474
+partition: 3
+650340
+271632
+385474
+amount of partitions: 8
+vertex cut:
+partition: 0
+361503
+135810
+192738
+partition: 1
+361289
+135797
+192738
+partition: 2
+361393
+136434
+192737
+partition: 3
+361345
+135721
+192737
+partition: 4
+361511
+136140
+192737
+partition: 5
+361434
+135963
+192737
+partition: 6
+361212
+136316
+192737
+partition: 7
+361731
+135911
+192737
